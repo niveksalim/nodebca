@@ -1,6 +1,9 @@
 ### NodeJS Wrapper for BCA API
 Wrapper is based on BCA API documentation which can be found on https://developer.bca.co.id/documentation/
 
+### Repository
+https://github.com/niveksalim/nodebca
+
 ### Config
 To be able to use the wrapper, make sure you have all of these configurations:
 - client_id
